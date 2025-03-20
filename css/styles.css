@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+
+  .banner {
+    padding: 20px 0;
+    text-align: center;
+    background-image: url(/images/banner.png);
+    background-size: static;
+    background-repeat: no-repeat;
+    color: rgb(82, 84, 190);
+  }
+
+  .navbar {
+    padding: 10px;
+    text-align: center;
+    background-color: #333;
+  }
+
+  .navbar a {
+    display: inline-block;
+    padding: 14px 20px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .navbar a:hover {
+    background-color: #585858;
+  }
+
+  .search-container {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    margin-left: 20px; 
+  }
+  
+  .search-container input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    outline: none;
+  }
+
+  .search-container button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #585858;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+  }
+  
+  .search-container button:hover {
+    background: #777;
+  }
+
+  .container {
+    margin: 20px;
+  }
+
+  .sidebar,
+  .content {
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+  }
+
+  hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .sidebar {
+    width: 25%;
+    background-color: #98c4ff62;
+    border-right: 2px solid #ddd;
+  }
+
+  .content {
+    width: 70%;
+  }
+
+  .content2 {
+    margin: auto;
+    width: 70%;
+  }
+  th, td {
+    border: 1px solid #00000071;
+    padding: 25px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  th {
+    background-color: #a0a0a0;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+
+  .footer {
+    padding: 1%;
+    text-align: center;
+    background-color: #333;
+    color: rgb(255, 255, 255);
+  }
+
+  .footer p {
+    margin: 5px 0;
+  }
+
+  @media (max-width: 600px) {
+    .navbar a {
+      display: block;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    .navbar a,
+    .search-container {
+      display: block;
+      margin: 10px auto;
+    }
+  
+    .search-container input {
+      width: 80%;
+    }
+
+    .sidebar,
+    .content {
+      display: block;
+      width: 100%;
+      margin: 0;
+    }
+
+    .sidebar {
+      text-align: center;
+    }
+
+    .sidebar ul {
+      list-style-type: none;
+    }
+
+    .content {
+      margin-top: 10px;
+    }
+    .content2 {
+      margin: 20px;
+    }
+    .footer a {
+      display: block;
+      margin: 10px;
+    }
+  }
