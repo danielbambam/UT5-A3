@@ -6,8 +6,7 @@
         <ownerName>JudoHUB</ownerName>
     </head>
     <body>
-        <outline text="Tienda" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/blog/tienda.html"/>
-        <outline text="Kimonos del Judo" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/blog/posts/post1.html"/>
-        <outline text="material del Judo" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/blog/posts/post3.html"/>
+        <outline text="Tienda" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/feed/rss.xml"/>
+        <outline text="Kimonos del Judo" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/feed/podcast.xml"/>
     </body>
 </opml>
