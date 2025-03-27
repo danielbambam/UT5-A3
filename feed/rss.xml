@@ -2,24 +2,24 @@
  <rss version="2.0">
   <channel>
     <title>Feed RSS JudoHUB</title>
-    <link> https://danielponcegonz.neocities.org/web-rss/feed/rss.xml</link>
+    <link> https://danielponcegonz.neocities.org/feed/rss.xml</link>
     <description>Últimas actualizaciones acerca del equipamiento e información sobre este deporte.</description>
     
     <item>
       <title>Kimonos y ropa de judo</title>
-      <link>https://danielponcegonz.neocities.org/web-rss/posts/post1.html</link>
+      <link>https://danielponcegonz.neocities.org/posts/post1.html</link>
       <description>Kimono blanco y azul de la mas alta calidad de la mano de Adidas.</description>
       <pubDate>Fri, 21 Mar 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Cinturones para judo</title>
-      <link>https://danielponcegonz.neocities.org/web-rss/posts/post2.html</link>
+      <link>https://danielponcegonz.neocities.org//posts/post2.html</link>
       <description>Kimono blanco y azul de la mas alta calidad de la mano de NKL.</description>
       <pubDate>Fri, 21 Mar 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
     <title>Material deportivo para el judo</title>
-      <link>https://danielponcegonz.neocities.org/web-rss/posts/post3.html</link>
+      <link>https://danielponcegonz.neocities.org/posts/post3.html</link>
       <description>Medidor homologado por la IJF para competiciones.</description>
       <pubDate>Fri, 21 Mar 2025 12:00:00 GMT</pubDate>
     </item>
