@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Página Web</title>
+  <link rel="stylesheet" href="/css/tiendastyles.css">
+  <script>
+    function toggleMenu() {
+      const menu = document.querySelector('.navbar-menu');
+      menu.classList.toggle('active');
+    }
+  </script>
+</head>
+
+<body>
+  <div class="banner">
+    <h1>A</h1>
+    <p>A</p>
+  </div>
+
+  <div class="navbar">
+    <a href="/blog/index.html">Inicio</a>
+    <a href="/blog/index1.html">Sobre nosostros</a>
+    <a href="/blog/tienda.html">Tienda</a>
+  
+    <div class="search-container">
+      <input type="text" placeholder="Buscar..." id="searchInput">
+      <button onclick="buscar()">🔍</button>
+    </div>
+  </div>
+
+  <h1>Tienda JudoHUB</h1>
+  <div class="tienda-container">
+    <div class="producto">
+        <img src="/images/Champions2.jpg" alt="Judogi Profesional">
+        <h2>Judogis Profesionales</h2>
+        <p>Alta calidad para competiciones.</p>
+        <a href="/blog/posts/post1.html" class="boton">Ver más</a>
+    </div>
+    <div class="producto">
+        <img src="/images/cinturon.jpg" alt="Cinturón">
+        <h2>Cinturones de rango</h2>
+        <p>Para todos los judokas segun su nivel.</p>
+        <a href="/blog/posts/post2.html" class="boton">Ver más</a>
+    </div>
+    <div class="producto">
+        <img src="/images/tatamis-zebra.jpg" alt="Material para Judo">
+        <h2>Material para Judokas</h2>
+        <p>Lo indispensable para un entrenamiento de alto nivel.</p>
+        <a href="/blog/posts/post3.html" class="boton">Ver más</a>
+    </div>
+    </div>
+    <div class="container">
+        <hr>
+    </div>
+    <div class="footer" id="redes_sociales">
+        <p>&copy; 2025 Judo Histórico y Judo en España</p>
+        <p><a href="rss.xml">Suscribirse al blog</a> | <a href="podcast.xml">Suscribirse al podcast</a> | <a href="feeds.opml">Descargar OPML</a></p>
+    </div>
+</body>
+</html>
