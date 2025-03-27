@@ -7,6 +7,6 @@
     </head>
     <body>
         <outline text="Tienda" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/feed/rss.xml"/>
-        <outline text="Kimonos del Judo" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/feed/podcast.xml"/>
+        <outline text="Podcast" type="rss" xmlUrl="danielponcegonz.neocities.org/web-rss/feed/podcast.xml"/>
     </body>
 </opml>
