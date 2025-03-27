@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<rss version="2.0">
+    <channel>
+        <title>JudoHUB Podcast</title>
+        <link>https://judohub.com/podcast</link>
+        <description>Podcast sobre la historia, técnicas y noticias del Judo.</description>
+        <language>es</language>
 
+        <item>
+            <title>Historia del Judo</title>
+            <description>Un repaso por la historia del Judo y su evolución.</description>
+            <pubDate>Tue, 25 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3"
+            type="audio/mpeg"/>
+        </item>
+        <item>
+            <title>Campeonatos de España</title>
+            <description>Un repaso por la historia del Judo y su evolución.</description>
+            <pubDate>Tue, 25 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3"
+            type="audio/mpeg"/>
+        </item>
+    </channel>
 </rss>
