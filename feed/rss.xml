@@ -4,7 +4,7 @@
     <title>Feed RSS JudoHUB</title>
     <link> https://danielponcegonz.neocities.org/feed/rss.xml</link>
     <description>Últimas actualizaciones acerca del equipamiento e información sobre este deporte.</description>
-    
+
     <item>
       <title>Kimonos y ropa de judo</title>
       <link>https://danielponcegonz.neocities.org/UT5-A3/blog/posts/post1.html</link>
@@ -13,7 +13,7 @@
     </item>
     <item>
       <title>Cinturones para judo</title>
-      <link>https://danielponcegonz.neocities.org//posts/post1.html</link>
+      <link>https://danielponcegonz.neocities.org/posts/post1.html</link>
       <description>Kimono blanco y azul de la mas alta calidad.</description>
       <pubDate>Fri, 21 Mar 2025 12:00:00 GMT</pubDate>
     </item>

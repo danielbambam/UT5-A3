@@ -8,8 +8,11 @@
     background-image: url(/images/bannerx2.png);
     background-size:cover;
     background-repeat: no-repeat;
-    color: #E8DBBB;
+    color: #8d0606d3;
     background-position: center;
+  }
+  .banner h1 {
+    color:#ffffff00;
   }
 
   .navbar {
