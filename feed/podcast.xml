@@ -11,7 +11,7 @@
            <description>Un repaso por la historia del Judo y su evolución.</description>
            <pubDate>Tue, 25 Mar 2025 10:00:00 GMT</pubDate>
            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3"
-                      type="audio/mpeg" length="0"/>
+                      type="audio/mpeg" length="5050"/>
            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
        </item>
 
@@ -20,7 +20,7 @@
            <description>La temporada actual del Judo.</description>
            <pubDate>Tue, 25 Mar 2025 10:00:00 GMT</pubDate>
            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3"
-                      type="audio/mpeg" length="0"/>
+                      type="audio/mpeg" length="230"/>
            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
        </item>
    </channel>
