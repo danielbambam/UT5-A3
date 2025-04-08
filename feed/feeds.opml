@@ -5,7 +5,7 @@
         <ownerName>JudoHUB</ownerName>
     </head>
     <body>
-        <outline text="Tienda" type="rss" xmlUrl="https://danielponcegonz.neocities.org/UT5-A3/feed/rss.xml"/>
-        <outline text="Podcast" type="rss" xmlUrl="https://danielponcegonz.neocities.org/UT5-A3/feed/podcast.xml"/>
+        <outline text="Tienda" type="rss" xmlUrl="https://danielbambam.github.io/UT5-A3/feed/rss.xml"/>
+        <outline text="Podcast" type="rss" xmlUrl="https://danielbambam.github.io/UT5-A3/feed/podcast.xml"/>
     </body>
 </opml>
