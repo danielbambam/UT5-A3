@@ -5,7 +5,7 @@
   }
   .banner {
     padding: 80px 0;
-    background-image: url(images/bannerx2.png);
+    background-image: url(../images/bannerx2.png);
     background-size:cover;
     background-repeat: no-repeat;
     color: #8d0606d3;
